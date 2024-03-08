@@ -45,23 +45,7 @@ This Chrome extension allows users to generate and enjoy random jokes right in t
 
 ## API Used
 
-- [API_NAME] - Link to the API documentation
+- [https://icanhazdadjoke.com/api] 
 
-## Contributing
 
-If you want to contribute to this project, follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m 'Add feature-name'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
-
-## License
-
-This project is licensed under the [Your License] - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to [https://icanhazdadjoke.com/api] for providing the amazing jokes.
 
